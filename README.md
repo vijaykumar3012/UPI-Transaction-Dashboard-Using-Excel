@@ -1,6 +1,6 @@
 # UPI-Transaction-Dashboard-Using-Excel
 
-### 📊 UPI Transaction Dashboard — LinkedIn Post
+### 📊 UPI Transaction Dashboard 
 
 🚀 **Excited to share my latest Data Analytics project: UPI Transaction Dashboard!**
 
